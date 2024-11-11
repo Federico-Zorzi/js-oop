@@ -20,4 +20,5 @@ La classe "Automobile" eredita tutte le proprietà e i metodi della classe "Veic
 
 Successivamente:
 Istanziamo una nuova Automobile (Opel, 2020, nera, con 4 porte, a benzina)
-Stampiamo il numero di porte e il tipo di carburante.Buon Lavoro
+Stampiamo il numero di porte e il tipo di carburante.
+Buon Lavoro
